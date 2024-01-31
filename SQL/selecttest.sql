@@ -1,0 +1,7 @@
+use ApplicationDb 
+-- SELECT FROM TABLE OR VIEW 
+SELECT * FROM Products
+WHERE id = 2 /* ADD SEARCH CONDITIONS HERE */ 
+GO
+
+select
